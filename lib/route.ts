@@ -1,0 +1,16 @@
+export const routes = {
+    createUserAccount: '/users/create-account',
+    createAdminAccount: '/admin/create-account',
+    userLogin: '/users/login',
+    adminLogin: '/admin/login',
+    getUser: '/user/profile',
+    getUsers: '/get-users',
+    deleteUser: '/admin/delete-user',
+    userUpdate: '/users/update-user',
+    adminCreateUser: '/admin/create-user',
+    adminActionsHistory: '/admin/action-history',
+    updateUserAvatar: '/user/avatar',
+    userLogout: '/user/logout',
+    authAdmin: '/auth/admin',
+    authUser: '/auth/user',
+}
