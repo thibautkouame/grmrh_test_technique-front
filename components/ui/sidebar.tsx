@@ -14,7 +14,6 @@ import {
 } from 'lucide-react'
 import { backendHelper } from '@/lib/backend-helper'
 import { routes } from '@/lib/route'
-import { toast } from 'sonner'
 
 interface SidebarProps {
     className?: string
