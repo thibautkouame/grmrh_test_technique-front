@@ -11,9 +11,6 @@ npm run dev
 
 # NB : Cet projet est aussi disponible en ligne via : (https://grmrh-test-technique-front.vercel.app)
 
-# Lien demo : 
-Cet projet est aussi disponible en ligne via : [](https://grmrh-test-technique-front.vercel.app)
-
 # Structure du projet : 
 
 <img width="328" height="824" alt="Image" src="https://github.com/user-attachments/assets/8b78a3c1-1a01-4bfd-8940-dacd6d636aad" />
