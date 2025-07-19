@@ -1,5 +1,5 @@
 
-# Setup
+# Instructions d’installation
 
 1. Cloner le projet  : git clone https://github.com/thibautkouame/grmrh_test_technique-front.git
 2. Installer les dépendances : npm i
@@ -15,6 +15,9 @@ Cet projet est aussi disponible en ligne via : [](https://grmrh-test-technique-f
 # Structure du projet : 
 
 <img width="328" height="824" alt="Image" src="https://github.com/user-attachments/assets/8b78a3c1-1a01-4bfd-8940-dacd6d636aad" />
+
+# Technologies utilisées
+React, Vercel, Tailwindcss
 
 
 <img width="1871" height="966" alt="Image" src="https://github.com/user-attachments/assets/18797cde-1248-4b7c-a843-6b6757dfb191" />
