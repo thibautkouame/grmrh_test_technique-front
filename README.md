@@ -9,7 +9,7 @@
 npm run dev
 ```
 
-# NB : Cet projet est aussi disponible en ligne via : (https://grmrh-test-technique-front.vercel.app)
+# NB : Cet projet est aussi disponible en ligne. Lien démo : (https://grmrh-test-technique-front.vercel.app)
 
 # Structure du projet : 
 
