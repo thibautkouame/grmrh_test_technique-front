@@ -16,7 +16,7 @@ npm run dev
 <img width="328" height="824" alt="Image" src="https://github.com/user-attachments/assets/8b78a3c1-1a01-4bfd-8940-dacd6d636aad" />
 
 # Technologies utilisées
-React, Vercel, Nextjs, Tailwindcss
+React, Vercel, Nextjs, Tailwindcss. (ce projet pourrai evoluer sur une architecure : Clean Architecutre, Model View Controller)
 
 # Captures d’écran 
 
