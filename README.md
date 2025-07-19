@@ -26,3 +26,17 @@ React, Vercel, Nextjs, Tailwindcss. (ce projet pourrait evoluer sur une architec
 Resposive design (version mobile) : <img alt="Image" src="https://github.com/user-attachments/assets/2cdda2c8-68b6-4ac7-bcec-37472819fba6" />
 
 
+# Comment faire les tests unitaires ?
+
+Trois tests sont disponible (Button.test, Input.test, LoginFormUser.test) : 
+
+
+Pour exécuter tous les tests à la fois : 
+```bash
+npm test
+```
+
+Pour exécuter un test spécifique : 
+```bash
+npm test -- "nom du composant"
+```
